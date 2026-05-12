@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Downtown",
+    "address": "123 Main St",
+    "city": "Metropolis",
+    "state": "NY",
+    "zip_code": "10001"
+  },
+  {
+    "id": 2,
+    "name": "Uptown",
+    "address": "456 Elm St",
+    "city": "Metropolis",
+    "state": "NY",
+    "zip_code": "10002"
+  }
+]
